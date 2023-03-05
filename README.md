@@ -5,7 +5,7 @@ Un blog increible para el curso de Git y Github.
 En este curso vemos de todo:
 * Todos los comandos de Git
 * El flujo de trabajo en Github
-* El verdadero amor por las buenas prácticas
+* El verdadero amor por las buenas prácticas :D
 * Trucos muy locos del profesor
 * Las personalidades multiples del profesor
 
